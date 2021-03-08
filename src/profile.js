@@ -8,10 +8,10 @@ const background = {
 };
 // Write a para about yourself here
 // To update your image, go to './styles/images.css'
-const section2title = "About Me";
+const section2title = "About Kasey...";
 const about = {
   paragraph:
-    "Innovative front-end developer/designer with success designing and executing design projects from start to end for a variety of high-profile clients/brands. Adept at SEO plans and execution for informational and ecommerce websites. Highly skilled in delivering innovative ideas for books, magazines, brochures, and print media. Knowledge of JavaScript, MySQL, Node.js, Express.js, React.js, MongoDB, Command Line, Git, WordPress, Mac OS X operating systems, networking, troubleshooting, HTML5, CSS3, Flexbox layouts, and evolving technologies. Demonstrated organizational, communication, interpersonal, presentation, creative thinking, and problem-solving skills.",
+    "Innovative front-end developer/designer with success designing, executing and managing projects from start to end for a variety of high-profile clients and brands. Adept at SEO plans and execution for informational and ecommerce websites. Highly skilled in delivering innovative ideas for books, magazines, brochures and print media. Expert with Adobe Creative Suite programs including PhotoShop, Illutrator, Indesign and XD. Knowledge of React, JavaScript, MySQL, Node, Express, MongoDB, Command Line, Git, WordPress, Mac OS X operating systems, networking, troubleshooting, HTML5, CSS3, Flexbox layouts, and evolving technologies. Demonstrated organizational, communication, interpersonal, presentation, creative thinking, and problem-solving skills. Looking for a great opportunity to use my skills and become a valuable asset and to enspire others with my love for design.",
 };
 // Edit your skill and the percentage you know about it
 // To Add a skill, copy any one below and paste it after the last comma
@@ -33,7 +33,7 @@ const skillsBar = [
     value: 85,
   },
   {
-    name: "CSS3",
+    name: "CSS3 | Sass",
     value: 85,
   },
   {
@@ -57,73 +57,113 @@ const skillsBar = [
 // Edit your projects, its name, your skills used to make it, and the url.
 // You can omit freely anything if you dont have it
 // To Add a Project, copy any one below and paste it after the last comma and increment the id's project number
-const section3Title = "Past Projects";
+const section3Title = "Digital Media";
 const projects = [
   {
     // Add image in './styles/images.css' in #project1
     id: "project1",
-    name: "Project 1",
-    skills: ["HTML, CSS, JS"],
-    url: "https://github.com/kaustubhai",
+    name: "Slavens Racing | Ecommerce",
+    skills: ["HTML, CSS, WordPress"],
+    url: "https://slavensracing.com",
   },
   {
     // Add image in './styles/images.css' in #project2
     id: "project2",
-    name: "Project 2",
-    skills: ["HTML, CSS, JS"],
-    url: "https://github.com/kaustubhai",
+    name: "BRP Racing Products | Ecommerce",
+    skills: ["HTML, CSS, WordPress"],
+    url: "https://shopbrp.com",
   },
   {
     // Add image in './styles/images.css' in #project3
     id: "project3",
-    name: "Project 3",
-    skills: ["HTML, CSS, JS"],
-    url: "https://github.com/kaustubhai",
+    name: "E Line Accessories | Ecommerce",
+    skills: ["HTML, CSS, WordPress"],
+    url: "https://elineaccessories.com",
   },
   {
     // Add image in './styles/images.css' in #project4
     id: "project4",
-    name: "Project 4",
-    skills: ["HTML, CSS, JS"],
-    url: "https://github.com/kaustubhai",
+    name: "Excavator Tek | Blog",
+    skills: ["HTML, CSS, Wordpress"],
+    url: "https://excavatortek.com",
   },
   {
     // Add image in './styles/images.css' in #project5
     id: "project5",
-    name: "Project 5",
-    skills: ["HTML, CSS, JS"],
-    url: "https://github.com/kaustubhai",
+    name: "Don't Smoke My Hat | Ecommerce",
+    skills: ["HTML, CSS, WordPress"],
+    url: "https://dontsmokemyhat.com",
   },
   {
     // Add image in './styles/images.css' in #project6
     id: "project6",
-    name: "Project 6",
+    name: "Weather Dashboard",
+    skills: ["HTML, CSS, JS, JQuery"],
+    url: "https://kcraymond.github.io/Weather-Dashboard/",
+  },
+  {
+    // Add image in './styles/images.css' in #project6
+    id: "project7",
+    name: "Workout Tracker",
+    skills: ["HTML, CSS, JS, Mongo DB, Atlas"],
+    url:
+      "https://limitless-crag-66215.herokuapp.com/?id=602bf784af7f55001513dab4",
+  },
+  {
+    // Add image in './styles/images.css' in #project6
+    id: "project8",
+    name: "Employee Team Builder",
+    skills: ["HTML, CSS, JS, Node"],
+    url: "https://github.com/KcRaymond/Template-Engine",
+  },
+  {
+    // Add image in './styles/images.css' in #project6
+    id: "project9",
+    name: "Trivia Game",
     skills: ["HTML, CSS, JS"],
-    url: "https://github.com/kaustubhai",
+    url: "https://kcraymond.github.io/LetsGetTrivial/",
   },
 ];
 // Edit your Miscellaneous Activities, its name and the url.
 // You can omit freely anything if you dont have it
 // To Add a Activity, copy any one below and paste it after the last comma and increment the id's Miscellaneous number
-const section4Title = "Miscellaneous";
+const section4Title = "Art & Illustrations";
 const miscellaneous = [
   {
     // Add image in './styles/images.css' in #misc1
     id: "misc1",
-    name: "Miscellaneous 1",
-    url: "https://github.com/kaustubhai",
+    name: "Mural Painting | Acrylics & Spray Paint",
+    // url: "https://github.com/kaustubhai",
   },
   {
     // Add image in './styles/images.css' in #misc2
     id: "misc2",
-    name: "Miscellaneous 2",
-    url: "https://github.com/kaustubhai",
+    name: "Mural Painting | Acrylics",
+    // url: "https://github.com/kaustubhai",
   },
   {
     // Add image in './styles/images.css' in #misc3
     id: "misc3",
-    name: "Miscellaneous 3",
-    url: "https://github.com/kaustubhai",
+    name: "Illustration | Colored Pencil",
+    // url: "https://github.com/kaustubhai",
+  },
+  {
+    // Add image in './styles/images.css' in #misc1
+    id: "misc4",
+    name: "Typography | Illustrator",
+    // url: "https://github.com/kaustubhai",
+  },
+  {
+    // Add image in './styles/images.css' in #misc2
+    id: "misc5",
+    name: "Typography | Illustrator",
+    // url: "https://github.com/kaustubhai",
+  },
+  {
+    // Add image in './styles/images.css' in #misc3
+    id: "misc6",
+    name: "Typography | Illustrator",
+    // url: "https://github.com/kaustubhai",
   },
 ];
 // Contact form text, and Jotforms link
@@ -132,18 +172,19 @@ const miscellaneous = [
 const section5Title = "Get in Touch";
 const contact = {
   pitch:
-    "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Mauris nunc congue nisi vitae.",
-  copyright: "Kaustubh Mishra",
-  contactUrl: "",
+    "Thanks for viewing my work. I will be adding more projects as I input great designs into my terminal and bring creativity again and again to the galaxy... Click the arrow below to download my resume. ",
+  copyright: "Kasey Raymond",
+  contactUrl: "mailto:kaseyleigh1978@gmail.com",
 };
 // Paste your respective social media links. You can omit any if you dont have it
 // Upload your resume in your drive, get the shaareable link and paste it in the resume section
 const social = {
-  github: "https://github.com",
+  github: "https://github.com/KcRaymond",
   facebook: "https://facebook.com",
-  linkedin: "https://linkedin.com",
+  linkedin: "https://www.linkedin.com/in/KLR-Designs/",
   instagram: "https://instagram.com",
-  resume: "https://novoresume.com/",
+  resume:
+    "https://drive.google.com/file/d/1k5s5i3f2JgNgqTtgI9_2IPQHHu3U6sII/view?usp=sharing",
 };
 // Dont change anything here
 export {

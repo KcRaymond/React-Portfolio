@@ -5,7 +5,7 @@ body {
   margin: 0;
   padding: 0;
   cursor: crosshair;
-  background-image: url("/src/KC-resume-background.png");
+  background-image: url("/src/images/KC-resume-background.png");
   background-repeat: no-repeat;
   background-size: contain;
 }
@@ -206,13 +206,18 @@ body {
 }
 .git-head-div {
   box-sizing: border-box;
-  padding-top: 5%;
-  padding-bottom: 15px;
+  padding-top: 1%;
+  padding-bottom: 5px;
   width: 30%;
   border-bottom: 3px solid #000;
   color: #000;
   font-weight: 500;
   text-align: center;
+}
+.phone,
+.email {
+  margin-top: 15px;
+  color: var(--primary-color);
 }
 .git-cont {
   display: inline-block;
@@ -309,9 +314,10 @@ textarea:focus {
   text-decoration-color: var(--primary-color);
 }
 .Copy {
-  color: #fff !important;
-  font-weight: 500;
+  color: gold !important;
+  font-weight: 700;
   padding-top: 2%;
+  text-shadow: 2px 2px 3px black;
 }
 .project-name {
   text-decoration: none;
@@ -424,13 +430,15 @@ input:checked + .slider:before {
 }
 .row {
   background-image: linear-gradient(white, white, rgb(83, 83, 175));
+  padding-bottom: 0px;
 }
+
 @keyframes typewriter {
   from {
     width: 0;
   }
   to {
-    width: 15em;
+    width: 20em;
   }
 }
 @keyframes blinkTextCursor {

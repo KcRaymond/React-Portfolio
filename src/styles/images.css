@@ -4,43 +4,67 @@
 } */
 /* Projects Photo */
 #project1 {
-  background-image: url("https://via.placeholder.com/400x600.png?text=Project+one");
+  background-image: url("../images/screenshot-SlavensRacing.png");
   cursor: none;
 }
 #project2 {
-  background-image: url("https://via.placeholder.com/400x600.png?text=Project+two");
+  background-image: url("../images/screenshot-BRP.png");
   cursor: none;
 }
 #project3 {
-  background-image: url("https://via.placeholder.com/400x600.png?text=Project+three");
+  background-image: url("../images/screenshot-ElineAccessories.png");
   cursor: none;
 }
 #project4 {
-  background-image: url("https://via.placeholder.com/400x600.png?text=Project+four");
+  background-image: url("../images/screenshot-ExcavatorTek.png");
   cursor: none;
 }
 #project5 {
-  background-image: url("https://via.placeholder.com/400x600.png?text=Project+five");
+  background-image: url("../images/screenshot-DSMH.png");
   cursor: none;
 }
 #project6 {
-  background-image: url("https://via.placeholder.com/400x600.png?text=Project+six");
+  background-image: url("../images/weatherdashboard-screenshot.jpg");
+  cursor: none;
+}
+#project7 {
+  background-image: url("../images/workout-screenshot.jpg");
+  cursor: none;
+}
+#project8 {
+  background-image: url("../images/digital_template_engine.jpg");
+  cursor: none;
+}
+#project9 {
+  background-image: url("../images/screenshot-LetsGetTrivial.png");
   cursor: none;
 }
 /* Miscelaneous Activities photo */
 #misc1 {
-  background-image: url("https://via.placeholder.com/400x600.png?text=Miscellaneous+one");
+  background-image: url("../images/art_EastCoastDeliMural.jpg");
   cursor: none;
 }
 #misc2 {
-  background-image: url("https://via.placeholder.com/400x600.png?text=Miscellaneous+two");
+  background-image: url("../images/art_WildThings.jpg");
   cursor: none;
 }
 #misc3 {
-  background-image: url("https://via.placeholder.com/400x600.png?text=Miscellaneous+three");
+  background-image: url("../images/art_ExcavatorTek.jpg");
+  cursor: none;
+}
+#misc4 {
+  background-image: url("../images/art_skateboard.jpg");
+  cursor: none;
+}
+#misc5 {
+  background-image: url("../images/art_snowboard.jpg");
+  cursor: none;
+}
+#misc6 {
+  background-image: url("../images/art_hockey.jpg");
   cursor: none;
 }
 /* Contact form parallax effect image */
 .parallax {
-  background-image: url("https://images.pexels.com/photos/691668/pexels-photo-691668.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+  background-image: url("../images/Kc-mural-background.jpg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
 }
