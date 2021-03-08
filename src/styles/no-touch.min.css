@@ -314,10 +314,12 @@ textarea:focus {
   text-decoration-color: var(--primary-color);
 }
 .Copy {
-  color: gold !important;
+  color: white !important;
   font-weight: 700;
-  padding-top: 2%;
-  text-shadow: 2px 2px 3px black;
+  background-color: rgb(8, 8, 173);
+  border-radius: 20px;
+  margin-top: 15px;
+  padding: 10px;
 }
 .project-name {
   text-decoration: none;
