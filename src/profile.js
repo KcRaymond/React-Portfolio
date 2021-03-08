@@ -191,6 +191,75 @@ const projects2 = [
     //   url: "https://kcraymond.github.io/LetsGetTrivial/",
   },
 ];
+const section7Title = "Trade Show Design & Marketing";
+const projects3 = [
+  {
+    // Add image in './styles/images.css' in #project1
+    id: "project19",
+    name: "Display Image | Trade Show Design & Production",
+    skills: [
+      "Back Lit Graphics, Large Banners, Corporate Interiors, Brochures, PowerPoint Presentations ",
+    ],
+    // url: "https://slavensracing.com",
+  },
+  {
+    // Add image in './styles/images.css' in #project2
+    id: "project20",
+    name: "6 Foot Convertible Display | Trade Show",
+    skills: ["Photoshop, Illustrator"],
+    // url: "https://shopbrp.com",
+  },
+  {
+    // Add image in './styles/images.css' in #project3
+    id: "project21",
+    name: "10 Foot Display | Trade Show",
+    skills: ["Photoshop, Illustrator"],
+    // url: "src/images/Slavens Racing Magazine Ads.pdf",
+  },
+  {
+    // Add image in './styles/images.css' in #project4
+    id: "project22",
+    name: "Pop Up Banners | Trade Show",
+    skills: ["Photoshop, Illustrator"],
+    // url: "https://excavatortek.com",
+  },
+  {
+    // Add image in './styles/images.css' in #project5
+    id: "project23",
+    name: "20 Foot Display | Trade Show",
+    skills: ["Photoshop, Illustrator"],
+    // url: "https://dontsmokemyhat.com",
+  },
+  {
+    // Add image in './styles/images.css' in #project6
+    id: "project24",
+    name: "Banner System | Trade Show",
+    skills: ["Photoshop, Illustrator"],
+    // url: "https://kcraymond.github.io/Weather-Dashboard/",
+  },
+  {
+    // Add image in './styles/images.css' in #project6
+    id: "project25",
+    name: "10 Foot Display & Light Tower | Trade Show",
+    skills: ["Photoshop, Illustrator"],
+    // url:
+    //   "https://limitless-crag-66215.herokuapp.com/?id=602bf784af7f55001513dab4",
+  },
+  {
+    // Add image in './styles/images.css' in #project6
+    id: "project26",
+    name: "6 Foot Display | Trade Show",
+    skills: ["Photoshop, Illustrator"],
+    // url: "https://github.com/KcRaymond/Template-Engine",
+  },
+  {
+    // Add image in './styles/images.css' in #project6
+    id: "project27",
+    name: "6 Foot Display | Trade Show",
+    skills: ["Photoshop, Illustrator"],
+    //   url: "https://kcraymond.github.io/LetsGetTrivial/",
+  },
+];
 // Edit your Miscellaneous Activities, its name and the url.
 // You can omit freely anything if you dont have it
 // To Add a Activity, copy any one below and paste it after the last comma and increment the id's Miscellaneous number
@@ -261,6 +330,7 @@ export {
   skillsBar,
   projects,
   projects2,
+  projects3,
   miscellaneous,
   contact,
   social,
@@ -269,4 +339,5 @@ export {
   section4Title,
   section5Title,
   section6Title,
+  section7Title,
 };

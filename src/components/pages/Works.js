@@ -7,6 +7,8 @@ import {
   section3Title,
   section4Title,
   section6Title,
+  section7Title,
+  projects3,
 } from "../../profile";
 
 const Works = () => {
@@ -42,7 +44,21 @@ const Works = () => {
             ))}
         </div>
       </div>
-
+      <div data-aos="zoom-in-up" data-aos-once="true" className="third">
+        <center>
+          <div className="pp-head-line">
+            <h1 id="Projects" className="red-line pp-head">
+              {section7Title}
+            </h1>
+          </div>
+        </center>
+        <div className="row">
+          {projects3 &&
+            projects3.map((x) => (
+              <Project id={x.id} url={x.url} name={x.name} skills={x.skills} />
+            ))}
+        </div>
+      </div>
       <div className="third">
         <center>
           <div className="pp-head-line">

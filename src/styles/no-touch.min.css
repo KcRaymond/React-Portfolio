@@ -121,7 +121,7 @@ h2 {
 }
 .red-line {
   color: var(--primary-color);
-  font-weight: 500;
+  font-weight: 700;
 }
 .About-title-box {
   box-sizing: border-box;
@@ -132,7 +132,7 @@ h2 {
 }
 .third {
   width: 75%;
-  margin: 10% auto;
+  margin: auto;
   align-items: center;
   padding: 3%;
   justify-content: center;
@@ -215,8 +215,10 @@ h2 {
   width: 30%;
   border-bottom: 3px solid #000;
   color: #000;
-  font-weight: 500;
   text-align: center;
+}
+.git-head {
+  font-weight: 700;
 }
 .phone,
 .email {
@@ -340,7 +342,7 @@ textarea:focus {
   z-index: 1002;
 }
 .see {
-  background-color: rgb(187, 8, 8);
+  background-image: linear-gradient(rgb(187, 8, 8), black);
   color: #fff;
   border: #000;
   outline: #000;
@@ -363,7 +365,7 @@ textarea:focus {
   outline: 0;
 }
 .see:hover {
-  background-color: rgb(250, 191, 41);
+  background-image: linear-gradient(rgb(250, 191, 41), black);
   color: black;
 }
 .switch {
