@@ -17,7 +17,7 @@ const about = {
 // To Add a skill, copy any one below and paste it after the last comma
 const skillsBar = [
   {
-    name: "PhotoShop | Illustrator | Indesign",
+    name: "PhotoShop | Illustrator | InDesign",
     value: 100,
   },
   {
@@ -124,6 +124,73 @@ const projects = [
     url: "https://kcraymond.github.io/LetsGetTrivial/",
   },
 ];
+const section6Title = "Printed Media";
+const projects2 = [
+  {
+    // Add image in './styles/images.css' in #project1
+    id: "project10",
+    name: "Craftsman Tool | Packaging Design",
+    skills: ["PhotoShop, Illustrator"],
+    // url: "https://slavensracing.com",
+  },
+  {
+    // Add image in './styles/images.css' in #project2
+    id: "project11",
+    name: "Ridgid Tool | Packaging Design",
+    skills: ["PhotoShop, Illustrator"],
+    // url: "https://shopbrp.com",
+  },
+  {
+    // Add image in './styles/images.css' in #project3
+    id: "project12",
+    name: "Slavens Racing | Magazine Ads",
+    skills: ["PhotoShop, Illustrator"],
+    // url: "src/images/Slavens Racing Magazine Ads.pdf",
+  },
+  {
+    // Add image in './styles/images.css' in #project4
+    id: "project13",
+    name: "Various Clients | T Shirt Design",
+    skills: ["PhotoShop, Illustrator"],
+    // url: "https://excavatortek.com",
+  },
+  {
+    // Add image in './styles/images.css' in #project5
+    id: "project14",
+    name: "Rocky Mountain Motorworks | Catalog Covers",
+    skills: ["PhotoShop, Illustrator, InDesign"],
+    // url: "https://dontsmokemyhat.com",
+  },
+  {
+    // Add image in './styles/images.css' in #project6
+    id: "project15",
+    name: "Rocky Mountain Motorworks | Magazine Ads",
+    skills: ["PhotoShop, Illustrator, InDesign"],
+    // url: "https://kcraymond.github.io/Weather-Dashboard/",
+  },
+  {
+    // Add image in './styles/images.css' in #project6
+    id: "project16",
+    name: "Rocky Mountain Motorworks | Catalog Inside Spreads",
+    skills: ["PhotoShop, Illustrator, InDesign"],
+    // url:
+    //   "https://limitless-crag-66215.herokuapp.com/?id=602bf784af7f55001513dab4",
+  },
+  {
+    // Add image in './styles/images.css' in #project6
+    id: "project17",
+    name: "Rocky Mountain Motorworks | Catalog Inside Covers",
+    skills: ["PhotoShop, Illustrator, InDesign"],
+    // url: "https://github.com/KcRaymond/Template-Engine",
+  },
+  {
+    // Add image in './styles/images.css' in #project6
+    id: "project18",
+    name: "Various Clients | Logo Design, Business Cards, Brochures...",
+    skills: ["PhotoShop, Illustrator, InDesign"],
+    //   url: "https://kcraymond.github.io/LetsGetTrivial/",
+  },
+];
 // Edit your Miscellaneous Activities, its name and the url.
 // You can omit freely anything if you dont have it
 // To Add a Activity, copy any one below and paste it after the last comma and increment the id's Miscellaneous number
@@ -193,6 +260,7 @@ export {
   about,
   skillsBar,
   projects,
+  projects2,
   miscellaneous,
   contact,
   social,
@@ -200,4 +268,5 @@ export {
   section3Title,
   section4Title,
   section5Title,
+  section6Title,
 };

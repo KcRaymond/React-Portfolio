@@ -431,7 +431,7 @@ input:checked + .slider:before {
     blinkTextCursor 0.5s steps(27) infinite normal;
 }
 .row {
-  background-image: linear-gradient(white, white, rgb(83, 83, 175));
+  background-image: linear-gradient(white, white, grey);
   padding-bottom: 0px;
 }
 
