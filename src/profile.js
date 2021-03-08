@@ -17,7 +17,7 @@ const about = {
 // To Add a skill, copy any one below and paste it after the last comma
 const skillsBar = [
   {
-    name: "PhotoShop | Illustrator | InDesign",
+    name: "Photoshop | Illustrator | InDesign",
     value: 100,
   },
   {
@@ -63,49 +63,49 @@ const projects = [
     // Add image in './styles/images.css' in #project1
     id: "project1",
     name: "Slavens Racing | Ecommerce",
-    skills: ["HTML, CSS, WordPress"],
+    skills: ["HTML, CSS, WordPress, Photoshop"],
     url: "https://slavensracing.com",
   },
   {
     // Add image in './styles/images.css' in #project2
     id: "project2",
     name: "BRP Racing Products | Ecommerce",
-    skills: ["HTML, CSS, WordPress"],
+    skills: ["HTML, CSS, WordPress, Photoshop"],
     url: "https://shopbrp.com",
   },
   {
     // Add image in './styles/images.css' in #project3
     id: "project3",
     name: "E Line Accessories | Ecommerce",
-    skills: ["HTML, CSS, WordPress"],
+    skills: ["HTML, CSS, WordPress, Photoshop"],
     url: "https://elineaccessories.com",
   },
   {
     // Add image in './styles/images.css' in #project4
     id: "project4",
     name: "Excavator Tek | Blog",
-    skills: ["HTML, CSS, Wordpress"],
+    skills: ["HTML, CSS, Wordpress, Photoshop"],
     url: "https://excavatortek.com",
   },
   {
     // Add image in './styles/images.css' in #project5
     id: "project5",
     name: "Don't Smoke My Hat | Ecommerce",
-    skills: ["HTML, CSS, WordPress"],
+    skills: ["HTML, CSS, WordPress, Photoshop"],
     url: "https://dontsmokemyhat.com",
   },
   {
     // Add image in './styles/images.css' in #project6
     id: "project6",
     name: "Weather Dashboard",
-    skills: ["HTML, CSS, JS, JQuery"],
+    skills: ["HTML, CSS, JS, JQuery, Photoshop"],
     url: "https://kcraymond.github.io/Weather-Dashboard/",
   },
   {
     // Add image in './styles/images.css' in #project6
     id: "project7",
     name: "Workout Tracker",
-    skills: ["HTML, CSS, JS, Mongo DB, Atlas"],
+    skills: ["HTML, CSS, JS, Mongo DB, Atlas, Photoshop"],
     url:
       "https://limitless-crag-66215.herokuapp.com/?id=602bf784af7f55001513dab4",
   },
@@ -113,14 +113,14 @@ const projects = [
     // Add image in './styles/images.css' in #project6
     id: "project8",
     name: "Employee Team Builder",
-    skills: ["HTML, CSS, JS, Node"],
+    skills: ["HTML, CSS, JS, Node, Photoshop"],
     url: "https://github.com/KcRaymond/Template-Engine",
   },
   {
     // Add image in './styles/images.css' in #project6
     id: "project9",
     name: "Trivia Game",
-    skills: ["HTML, CSS, JS"],
+    skills: ["HTML, CSS, JS, Photoshop"],
     url: "https://kcraymond.github.io/LetsGetTrivial/",
   },
 ];
@@ -130,49 +130,49 @@ const projects2 = [
     // Add image in './styles/images.css' in #project1
     id: "project10",
     name: "Craftsman Tool | Packaging Design",
-    skills: ["PhotoShop, Illustrator"],
+    skills: ["Photoshop, Illustrator"],
     // url: "https://slavensracing.com",
   },
   {
     // Add image in './styles/images.css' in #project2
     id: "project11",
     name: "Ridgid Tool | Packaging Design",
-    skills: ["PhotoShop, Illustrator"],
+    skills: ["Photoshop, Illustrator"],
     // url: "https://shopbrp.com",
   },
   {
     // Add image in './styles/images.css' in #project3
     id: "project12",
     name: "Slavens Racing | Magazine Ads",
-    skills: ["PhotoShop, Illustrator"],
+    skills: ["Photoshop, Illustrator"],
     // url: "src/images/Slavens Racing Magazine Ads.pdf",
   },
   {
     // Add image in './styles/images.css' in #project4
     id: "project13",
     name: "Various Clients | T Shirt Design",
-    skills: ["PhotoShop, Illustrator"],
+    skills: ["Photoshop, Illustrator"],
     // url: "https://excavatortek.com",
   },
   {
     // Add image in './styles/images.css' in #project5
     id: "project14",
     name: "Rocky Mountain Motorworks | Catalog Covers",
-    skills: ["PhotoShop, Illustrator, InDesign"],
+    skills: ["Photoshop, Illustrator, InDesign"],
     // url: "https://dontsmokemyhat.com",
   },
   {
     // Add image in './styles/images.css' in #project6
     id: "project15",
     name: "Rocky Mountain Motorworks | Magazine Ads",
-    skills: ["PhotoShop, Illustrator, InDesign"],
+    skills: ["Photoshop, Illustrator, InDesign"],
     // url: "https://kcraymond.github.io/Weather-Dashboard/",
   },
   {
     // Add image in './styles/images.css' in #project6
     id: "project16",
     name: "Rocky Mountain Motorworks | Catalog Inside Spreads",
-    skills: ["PhotoShop, Illustrator, InDesign"],
+    skills: ["Photoshop, Illustrator, InDesign"],
     // url:
     //   "https://limitless-crag-66215.herokuapp.com/?id=602bf784af7f55001513dab4",
   },
@@ -180,14 +180,14 @@ const projects2 = [
     // Add image in './styles/images.css' in #project6
     id: "project17",
     name: "Rocky Mountain Motorworks | Catalog Inside Covers",
-    skills: ["PhotoShop, Illustrator, InDesign"],
+    skills: ["Photoshop, Illustrator, InDesign"],
     // url: "https://github.com/KcRaymond/Template-Engine",
   },
   {
     // Add image in './styles/images.css' in #project6
     id: "project18",
     name: "Various Clients | Logo Design, Business Cards, Brochures...",
-    skills: ["PhotoShop, Illustrator, InDesign"],
+    skills: ["Photoshop, Illustrator, InDesign"],
     //   url: "https://kcraymond.github.io/LetsGetTrivial/",
   },
 ];

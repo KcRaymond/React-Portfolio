@@ -36,6 +36,10 @@ body {
   font-size: 5.5rem;
   position: absolute;
 }
+h2 {
+  font-size: 21px;
+  font-weight: 900;
+}
 .Header p {
   margin-top: 125px;
 }
@@ -316,10 +320,14 @@ textarea:focus {
 .Copy {
   color: white !important;
   font-weight: 700;
-  background-color: rgb(8, 8, 173);
+  background-image: linear-gradient(grey, black);
   border-radius: 20px;
   margin-top: 15px;
-  padding: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 15px;
+  padding-right: 15px;
+  text-shadow: 2px 2px 2px black;
 }
 .project-name {
   text-decoration: none;
@@ -431,7 +439,7 @@ input:checked + .slider:before {
     blinkTextCursor 0.5s steps(27) infinite normal;
 }
 .row {
-  background-image: linear-gradient(white, white, grey);
+  background-image: linear-gradient(white, grey);
   padding-bottom: 0px;
 }
 
@@ -538,6 +546,6 @@ input:checked + .slider:before {
     font-size: 20px;
   }
   .row {
-    background-image: linear-gradient(white, white, rgb(62, 62, 192));
+    background-image: linear-gradient(white, white, grey);
   }
 }
