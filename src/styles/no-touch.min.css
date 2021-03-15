@@ -471,12 +471,15 @@ input:checked + .slider:before {
 }
 @media (max-width: 800px) {
   .lead {
-    font-weight: 300;
+    font-weight: 400;
+    text-align: left;
   }
   .Header h1 {
     font-size: 2.5rem;
+    margin-top: -310px;
   }
   .line-1 {
+    display: none;
     color: white;
     font-size: 80%;
     top: 5.5%;
@@ -488,8 +491,15 @@ input:checked + .slider:before {
     width: 100%;
     text-align: center;
   }
-  .red-line::before {
-    bottom: 590px;
+  .red-line {
+    width: 200px;
+    align-content: center;
+  }
+  /* .red-line::before {
+    bottom: 90px;
+  } */
+  .tsparticles-canvas-el {
+    margin-bottom: -500px;
   }
   .effect2 {
     width: 100%;
