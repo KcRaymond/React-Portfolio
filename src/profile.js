@@ -11,7 +11,7 @@ const background = {
 const section2title = "About Kasey...";
 const about = {
   paragraph:
-    "An Innovative front-end developer/designer with success designing, executing and managing projects from start to end for a variety of high-profile clients and brands. Adept at SEO plans and execution for informational and ecommerce websites. Highly skilled in delivering innovative ideas for books, magazines, brochures and print media. Expert with Adobe Creative Suite programs including Photoshop, Illustrator, InDesign and XD. Knowledge of React, JavaScript, MySQL, Node, Express, MongoDB, Command Line, Git, WordPress, Mac OS X operating systems, networking, troubleshooting, HTML5, CSS3, Flexbox layouts, and evolving technologies. Demonstrated organizational, communication, interpersonal, presentation, creative thinking, and problem-solving skills. Natural talent and an eye for design are rare, any company would greatly benefit and quickly see the invaluable asset added to their team. All websites, pictures, illustrations and paintings on this site are created by Kasey.",
+    "Innovative Art Director with success designing, managing and executing projects from start to end for a variety of high-profile clients/brands. Adept at SEO plans and execution for informational and ecommerce websites. Highly skilled in delivering innovative ideas for books, magazines, brochures, and print media with an expert level of Adobe Creative Suite software. Knowledge of JavaScript, React.js, HTML5, CSS3, Flexbox layouts, MySQL, Node.js, Express.js, MongoDB, Command Line, Git, WordPress, Mac OS X operating systems, networking, troubleshooting, and evolving technologies. Demonstrated leadership, organization, communication, interpersonal, presentation, creative thinking, and problem-solving skills. All websites, pictures, illustrations and paintings on this site are created by Kasey.",
 };
 // Edit your skill and the percentage you know about it
 // To Add a skill, copy any one below and paste it after the last comma
@@ -23,10 +23,6 @@ const skillsBar = [
   {
     name: "Wordpress | WooCommerce",
     value: 100,
-  },
-  {
-    name: "Adobe XD | Figma",
-    value: 75,
   },
   {
     name: "HTML5",
