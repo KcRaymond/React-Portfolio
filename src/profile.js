@@ -59,49 +59,63 @@ const projects = [
     // Add image in './styles/images.css' in #project1
     id: "project1",
     name: "Slavens Racing | Ecommerce",
-    skills: ["HTML, CSS, WordPress, Photoshop"],
+    skills: [
+      "Updated the design and incorported many plugin functions for this WordPress ecommerce site. Shipping calculator, wholesale site, fitment finder and SEO. Also enhanced email marketing and video editing. | HTML, CSS, WordPress, Photoshop, Illustrator",
+    ],
     url: "https://slavensracing.com",
   },
   {
     // Add image in './styles/images.css' in #project2
     id: "project2",
     name: "BRP Racing Products | Ecommerce",
-    skills: ["HTML, CSS, WordPress, Photoshop"],
+    skills: [
+      "Complete design and art direction for this WordPress site. Implemented fitment finder, shipping calculator, SEO strategies and streamlined user experience. | HTML, CSS, WordPress, Photoshop",
+    ],
     url: "https://shopbrp.com",
   },
   {
     // Add image in './styles/images.css' in #project3
     id: "project3",
     name: "E Line Accessories | Ecommerce",
-    skills: ["HTML, CSS, WordPress, Photoshop"],
+    skills: [
+      "Complete design and art direction of this WordPress ecommerce website and SEO. Including fitment finder and payment gateway. | HTML, CSS, WordPress, Photoshop",
+    ],
     url: "https://elineaccessories.com",
   },
   {
     // Add image in './styles/images.css' in #project4
     id: "project4",
     name: "Excavator Tek | Blog",
-    skills: ["HTML, CSS, Wordpress, Photoshop"],
+    skills: [
+      "Complete design and art direction for this WordPress informational blog site for a excavator company. | HTML, CSS, Wordpress, Photoshop",
+    ],
     url: "https://excavatortek.com",
   },
   {
     // Add image in './styles/images.css' in #project5
     id: "project5",
-    name: "Don't Smoke My Hat | Ecommerce",
-    skills: ["HTML, CSS, WordPress, Photoshop"],
+    name: "Don't Smoke My Hat - Hemp Hats | Ecommerce",
+    skills: [
+      "Complete design and art direction for this WordPress site for a online hemp hat retailer. | HTML, CSS, WordPress, Photoshop",
+    ],
     url: "https://dontsmokemyhat.com",
   },
   {
     // Add image in './styles/images.css' in #project6
     id: "project6",
     name: "Weather Dashboard",
-    skills: ["HTML, CSS, JS, JQuery, Photoshop"],
+    skills: [
+      "Coding project to connect to an API and pull weather data to a user dashboard. | HTML, CSS, JS, JQuery, Photoshop",
+    ],
     url: "https://kcraymond.github.io/Weather-Dashboard/",
   },
   {
     // Add image in './styles/images.css' in #project6
     id: "project7",
     name: "Workout Tracker",
-    skills: ["HTML, CSS, JS, Mongo DB, Atlas, Photoshop"],
+    skills: [
+      "Coding project to connect the front end and setup Mongo DB with Atlas. | HTML, CSS, JS, Mongo DB, Atlas, Photoshop",
+    ],
     url:
       "https://limitless-crag-66215.herokuapp.com/?id=602bf784af7f55001513dab4",
   },
@@ -109,14 +123,18 @@ const projects = [
     // Add image in './styles/images.css' in #project6
     id: "project8",
     name: "Employee Team Builder",
-    skills: ["HTML, CSS, JS, Node, Photoshop"],
+    skills: [
+      "Coding project to generate a front end HTML page build in the terminal with Node.js. | HTML, CSS, JS, Node, Photoshop",
+    ],
     url: "https://github.com/KcRaymond/Template-Engine",
   },
   {
     // Add image in './styles/images.css' in #project6
     id: "project9",
     name: "Trivia Game",
-    skills: ["HTML, CSS, JS, Photoshop"],
+    skills: [
+      "Fun coding project to pull in APIs and use local storage. | HTML, CSS, JS, Photoshop",
+    ],
     url: "https://kcraymond.github.io/LetsGetTrivial/",
   },
 ];
