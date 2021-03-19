@@ -40,7 +40,10 @@ const skillsBar = [
     name: "Javascript",
     value: 75,
   },
-
+  {
+    name: "Express",
+    value: 50,
+  },
   {
     name: "Node",
     value: 50,
@@ -99,6 +102,15 @@ const projects = [
       "Complete design and art direction for this WordPress site for a online hemp hat retailer. | HTML, CSS, WordPress, Photoshop",
     ],
     url: "https://dontsmokemyhat.com",
+  },
+  {
+    // Add image in './styles/images.css' in #project5
+    id: "project28",
+    name: "Uncle Sam's Piggy Bank | React App",
+    skills: [
+      "Coding project to develop an app to allow a user to play with the federal budget figures. User can change the percentage of collected taxes and change federal department expenses to see if they can do a better job at balancing the federal budget than the government. | MongoDB, Express, React, Node, CSS, Photoshop",
+    ],
+    url: "https://unclesamspiggybank.herokuapp.com/",
   },
   {
     // Add image in './styles/images.css' in #project6
