@@ -327,6 +327,24 @@ const miscellaneous = [
     name: "Typography | Illustrator",
     // url: "https://github.com/kaustubhai",
   },
+  {
+    // Add image in './styles/images.css' in #misc3
+    id: "misc7",
+    name: "Logo | Illustrator",
+    // url: "https://github.com/kaustubhai",
+  },
+  {
+    // Add image in './styles/images.css' in #misc3
+    id: "misc8",
+    name: "Logo | Illustrator, Photoshop",
+    // url: "https://github.com/kaustubhai",
+  },
+  {
+    // Add image in './styles/images.css' in #misc3
+    id: "misc9",
+    name: "Logo | Illustrator",
+    // url: "https://github.com/kaustubhai",
+  },
 ];
 // Contact form text, and Jotforms link
 // To get your own jotform link, go to https://www.jotform.com/

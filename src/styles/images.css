@@ -140,6 +140,18 @@
   background-image: url("../images/art_hockey.jpg");
   cursor: none;
 }
+#misc7 {
+  background-image: url("../images/art_GoskateboardDay.jpg");
+  cursor: none;
+}
+#misc8 {
+  background-image: url("../images/art_Slavens_Tested.jpg");
+  cursor: none;
+}
+#misc9 {
+  background-image: url("../images/art_Slavens_CO.jpg");
+  cursor: none;
+}
 /* Contact form parallax effect image */
 .parallax {
   background-image: url("../images/Kc-mural-background.jpg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
