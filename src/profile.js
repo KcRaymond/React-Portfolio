@@ -25,6 +25,10 @@ const skillsBar = [
     value: 100,
   },
   {
+    name: "XD | Figma",
+    value: 85,
+  },
+  {
     name: "HTML5",
     value: 85,
   },
@@ -364,7 +368,7 @@ const social = {
   linkedin: "https://www.linkedin.com/in/KLR-Designs/",
   instagram: "https://instagram.com",
   resume:
-    "https://drive.google.com/file/d/1k5s5i3f2JgNgqTtgI9_2IPQHHu3U6sII/view?usp=sharing",
+    "https://drive.google.com/file/d/19NFZpgPt4r4-zRf40BFrwJBJ6fxiHuHg/view?usp=sharing",
 };
 // Dont change anything here
 export {
