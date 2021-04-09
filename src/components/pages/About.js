@@ -20,6 +20,7 @@ const About = () => {
       </div>
       <div className="row" id="Skills">
         <div className="col-12 skills">
+          <h1 className="skills-header">Skills</h1>
           {skillsBar.map((x) => (
             <Skills label={x.name} per={x.value} />
           ))}

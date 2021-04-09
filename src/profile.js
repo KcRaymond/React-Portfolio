@@ -11,7 +11,7 @@ const background = {
 const section2title = "About Kasey...";
 const about = {
   paragraph:
-    "Innovative Art Director with success designing, managing and executing projects from start to end for a variety of high-profile clients/brands. Adept at frontend website design, SEO plans and execution for informational and ecommerce websites. Highly skilled in delivering innovative ideas for books, magazines, brochures, and print media with an expert level of Adobe Creative Suite software. Knowledge of JavaScript, React.js, HTML5, CSS3, Flexbox layouts, MySQL, Node.js, Express.js, MongoDB, Command Line, Git, WordPress, Mac OS X operating systems, networking, troubleshooting, and evolving technologies. Demonstrated leadership, organization, communication, interpersonal, presentation, creative thinking, and problem-solving skills. All websites, pictures, illustrations and paintings on this site are created by Kasey.",
+    "Innovative Art Director with success designing, managing and executing projects from start to end for a variety of high-profile clients/brands. Adept at frontend website design, SEO plans and execution for informational and ecommerce websites. Highly skilled in delivering innovative ideas for books, magazines, brochures, videos and print media with an expert level of Adobe Creative Suite software. Knowledge of JavaScript, React.js, HTML5, CSS3, Flexbox layouts, MySQL, Node.js, Express.js, MongoDB, Command Line, Git, WordPress, Mac OS X operating systems, networking, troubleshooting, and evolving technologies. Demonstrated leadership, organization, communication, interpersonal, presentation, creative thinking, and problem-solving skills. All websites, pictures, illustrations and paintings on this site are created by Kasey.",
 };
 // Edit your skill and the percentage you know about it
 // To Add a skill, copy any one below and paste it after the last comma
@@ -23,6 +23,10 @@ const skillsBar = [
   {
     name: "Wordpress | WooCommerce",
     value: 100,
+  },
+  {
+    name: "iMovie | After Effects | Premiere",
+    value: 85,
   },
   {
     name: "XD | Figma",
@@ -119,7 +123,7 @@ const projects = [
   {
     // Add image in './styles/images.css' in #project6
     id: "project6",
-    name: "Weather Dashboard",
+    name: "Weather Dashboard App",
     skills: [
       "Coding project to connect to an API and pull weather data to a user dashboard. | HTML, CSS, JS, JQuery, Photoshop",
     ],
@@ -128,7 +132,7 @@ const projects = [
   {
     // Add image in './styles/images.css' in #project6
     id: "project7",
-    name: "Workout Tracker",
+    name: "Workout Tracker App",
     skills: [
       "Coding project to connect the front end and setup Mongo DB with Atlas. | HTML, CSS, JS, Mongo DB, Atlas, Photoshop",
     ],
@@ -147,7 +151,7 @@ const projects = [
   {
     // Add image in './styles/images.css' in #project6
     id: "project9",
-    name: "Trivia Game",
+    name: "Trivia Game App",
     skills: [
       "Fun coding project to pull in APIs and use local storage. | HTML, CSS, JS, Photoshop",
     ],
