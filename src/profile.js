@@ -21,7 +21,7 @@ const skillsBar = [
     value: 100,
   },
   {
-    name: "Wordpress | WooCommerce",
+    name: "Wordpress | Dreamweaver | Shopify",
     value: 100,
   },
   {
@@ -298,65 +298,88 @@ const projects3 = [
 // You can omit freely anything if you dont have it
 // To Add a Activity, copy any one below and paste it after the last comma and increment the id's Miscellaneous number
 const section4Title = "Art & Illustrations";
-const miscellaneous = [
+const projects4 = [
   {
-    // Add image in './styles/images.css' in #misc1
-    id: "misc1",
-    name: "Mural Painting | Acrylics & Spray Paint",
-    // url: "https://github.com/kaustubhai",
+    // Add image in './styles/images.css' in #project1
+    id: "project29",
+    name: "Commercial Restaurant Mural - Left Side | Acrylics & Spray Paint",
+    skills: [
+      "Designed and painted entrance cove in downtown Colorado Springs at the East Coast Deli",
+    ],
+    // url: "https://slavensracing.com",
   },
   {
-    // Add image in './styles/images.css' in #misc2
-    id: "misc2",
-    name: "Mural Painting | Acrylics",
-    // url: "https://github.com/kaustubhai",
+    // Add image in './styles/images.css' in #project1
+    id: "project30",
+    name: "Commercial Restaurant Mural - Right Side",
+    skills: [
+      "Funny thing is that I have never even been to the east coast, but it's on my bucket list. Painted from photos.",
+    ],
+    // url: "https://slavensracing.com",
   },
   {
-    // Add image in './styles/images.css' in #misc3
-    id: "misc3",
-    name: "Illustration | Colored Pencil",
-    // url: "https://github.com/kaustubhai",
+    // Add image in './styles/images.css' in #project2
+    id: "project31",
+    name: "Day Care Mural | Acrylics",
+    skills: [
+      `Recreated a painting of "Where the Wild Things Are" for a local day care. Ironically, I was surrounded by little wild things the whole process :)`,
+    ],
+    // url: "https://shopbrp.com",
   },
   {
-    // Add image in './styles/images.css' in #misc1
-    id: "misc4",
+    // Add image in './styles/images.css' in #project3
+    id: "project32",
+    name: "Logo Illustration | Colored Pencil",
+    skills: [
+      "Custom logo designed and created for Excavator Company, Excavator Tek",
+    ],
+    // url: "src/images/Slavens Racing Magazine Ads.pdf",
+  },
+  {
+    // Add image in './styles/images.css' in #project4
+    id: "project33",
     name: "Typography | Illustrator",
-    // url: "https://github.com/kaustubhai",
+    skills: ["Custom t-shirt art for screen printing"],
+    // url: "https://excavatortek.com",
   },
   {
-    // Add image in './styles/images.css' in #misc2
-    id: "misc5",
+    id: "project34",
     name: "Typography | Illustrator",
-    // url: "https://github.com/kaustubhai",
+    skills: ["Custom t-shirt art for screen printing"],
+    // url: "https://dontsmokemyhat.com",
   },
   {
-    // Add image in './styles/images.css' in #misc3
-    id: "misc6",
+    id: "project35",
     name: "Typography | Illustrator",
-    // url: "https://github.com/kaustubhai",
+    skills: ["Custom t-shirt art for screen printing"],
+    // url: "https://kcraymond.github.io/Weather-Dashboard/",
   },
   {
-    // Add image in './styles/images.css' in #misc3
-    id: "misc7",
-    name: "Logo | Illustrator",
-    // url: "https://github.com/kaustubhai",
+    id: "project36",
+    name: "Event Logo | Illustrator",
+    skills: [
+      "Logo to promote the local event at the new Skateboard park for National Go Skateboarding Day.",
+    ],
+    // url:
+    //   "https://limitless-crag-66215.herokuapp.com/?id=602bf784af7f55001513dab4",
   },
   {
-    // Add image in './styles/images.css' in #misc3
-    id: "misc8",
+    id: "project37",
     name: "Logo | Illustrator, Photoshop",
-    // url: "https://github.com/kaustubhai",
+    skills: [
+      "Logo to promote the Slavens Tested video series and product reviews.",
+    ],
+    // url: "https://github.com/KcRaymond/Template-Engine",
   },
   {
-    // Add image in './styles/images.css' in #misc3
-    id: "misc9",
+    // Add image in './styles/images.css' in #project6
+    id: "project38",
     name: "Logo | Illustrator",
-    // url: "https://github.com/kaustubhai",
+    skills: ["Colorado inspired Slavens Racing logo for t-shirts"],
+    //   url: "https://kcraymond.github.io/LetsGetTrivial/",
   },
 ];
-// Contact form text, and Jotforms link
-// To get your own jotform link, go to https://www.jotform.com/
-// If you hacve the link already, paste it in the contactUrl below
+
 const section5Title = "Get in Touch";
 const contact = {
   pitch:
@@ -364,8 +387,7 @@ const contact = {
   copyright: "Kasey Raymond",
   contactUrl: "mailto:kaseyleigh1978@gmail.com",
 };
-// Paste your respective social media links. You can omit any if you dont have it
-// Upload your resume in your drive, get the shaareable link and paste it in the resume section
+
 const social = {
   github: "https://github.com/KcRaymond",
   facebook: "https://facebook.com",
@@ -374,7 +396,6 @@ const social = {
   resume:
     "https://drive.google.com/file/d/19NFZpgPt4r4-zRf40BFrwJBJ6fxiHuHg/view?usp=sharing",
 };
-// Dont change anything here
 export {
   header,
   background,
@@ -383,7 +404,7 @@ export {
   projects,
   projects2,
   projects3,
-  miscellaneous,
+  projects4,
   contact,
   social,
   section2title,

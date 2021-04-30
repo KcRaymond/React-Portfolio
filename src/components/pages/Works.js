@@ -3,12 +3,12 @@ import Project from "../layouts/Project";
 import {
   projects,
   projects2,
-  miscellaneous,
   section3Title,
   section4Title,
   section6Title,
   section7Title,
   projects3,
+  projects4,
 } from "../../profile";
 
 const Works = () => {
@@ -68,9 +68,9 @@ const Works = () => {
           </div>
         </center>
         <div className="row">
-          {miscellaneous &&
-            miscellaneous.map((x) => (
-              <Project id={x.id} url={x.url} name={x.name} />
+          {projects4 &&
+            projects4.map((x) => (
+              <Project id={x.id} url={x.url} name={x.name} skills={x.skills} />
             ))}
         </div>
       </div>
