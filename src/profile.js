@@ -17,6 +17,10 @@ const about = {
 // To Add a skill, copy any one below and paste it after the last comma
 const skillsBar = [
   {
+    name: "Good ol' Pencil | Pen | Paint Brush",
+    value: 100,
+  },
+  {
     name: "Photoshop | Illustrator | InDesign",
     value: 100,
   },
@@ -116,7 +120,7 @@ const projects = [
     id: "project28",
     name: "Uncle Sam's Piggy Bank | React App",
     skills: [
-      "Coding project to develop an app to allow a user to play with the federal budget figures. User can change the percentage of collected taxes and change federal department expenses to see if they can do a better job at balancing the federal budget than the government. | MongoDB, Express, React, Node, CSS, Photoshop",
+      "Coding project to develop an app to allow a user to play with the federal budget figures. User can change the percentage of collected taxes and change federal department expenses to see if they can do a better job at balancing the federal budget than the government. | HTML, CSS, MongoDB, Express, React, Node, Photoshop",
     ],
     url: "https://unclesamspiggybank.herokuapp.com/",
   },
@@ -151,7 +155,7 @@ const projects = [
   {
     // Add image in './styles/images.css' in #project6
     id: "project9",
-    name: "Trivia Game App",
+    name: "Trivia Game App | Lets Get Trivial",
     skills: [
       "Fun coding project to pull in APIs and use local storage. | HTML, CSS, JS, Photoshop",
     ],
@@ -362,6 +366,13 @@ const projects4 = [
     id: "project33",
     name: "Logo Sign Design | Illustrator, Photoshop",
     skills: ["Custom logo designed and created for D'Vine Wine store signage"],
+    // url: "src/images/Slavens Racing Magazine Ads.pdf",
+  },
+  {
+    // Add image in './styles/images.css' in #project3
+    id: "project43",
+    name: "Book Illustration | Pen & Ink",
+    skills: ["Custom black and white illustration for book"],
     // url: "src/images/Slavens Racing Magazine Ads.pdf",
   },
   {

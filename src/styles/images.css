@@ -172,6 +172,10 @@
   background-image: url("../images/trade_show_10ft_Chiro.jpg");
   cursor: none;
 }
+#project43 {
+  background-image: url("../images/art_Book_Illustration.jpg");
+  cursor: none;
+}
 /* Contact form parallax effect image */
 .parallax {
   background-image: url("../images/Kc-mural-background.jpg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
