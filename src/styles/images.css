@@ -133,27 +133,43 @@
   cursor: none;
 }
 #project33 {
-  background-image: url("../images/art_skateboard.jpg");
+  background-image: url("../images/art_Dvine\ Wine\ sign.jpg");
   cursor: none;
 }
 #project34 {
-  background-image: url("../images/art_snowboard.jpg");
+  background-image: url("../images/art_skateboard.jpg");
   cursor: none;
 }
 #project35 {
-  background-image: url("../images/art_hockey.jpg");
+  background-image: url("../images/art_snowboard.jpg");
   cursor: none;
 }
 #project36 {
-  background-image: url("../images/art_GoskateboardDay.jpg");
+  background-image: url("../images/art_hockey.jpg");
   cursor: none;
 }
 #project37 {
-  background-image: url("../images/art_Slavens_Tested.jpg");
+  background-image: url("../images/art_GoskateboardDay.jpg");
   cursor: none;
 }
 #project38 {
+  background-image: url("../images/art_Slavens_Tested.jpg");
+  cursor: none;
+}
+#project39 {
   background-image: url("../images/art_Slavens_CO.jpg");
+  cursor: none;
+}
+#project40 {
+  background-image: url("../images/trade_show_10foot_Pitstop.jpg");
+  cursor: none;
+}
+#project41 {
+  background-image: url("../images/trade_show_table_top_Lacker.jpg");
+  cursor: none;
+}
+#project42 {
+  background-image: url("../images/trade_show_10ft_Chiro.jpg");
   cursor: none;
 }
 /* Contact form parallax effect image */

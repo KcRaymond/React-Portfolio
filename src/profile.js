@@ -293,6 +293,28 @@ const projects3 = [
     skills: ["Photoshop, Illustrator"],
     //   url: "https://kcraymond.github.io/LetsGetTrivial/",
   },
+  {
+    // Add image in './styles/images.css' in #project6
+    id: "project40",
+    name: "10 Foot Display | Trade Show",
+    skills: ["Photoshop, Illustrator"],
+    // url:
+    //   "https://limitless-crag-66215.herokuapp.com/?id=602bf784af7f55001513dab4",
+  },
+  {
+    // Add image in './styles/images.css' in #project6
+    id: "project41",
+    name: "6 Foot Display | Trade Show",
+    skills: ["Photoshop, Illustrator"],
+    // url: "https://github.com/KcRaymond/Template-Engine",
+  },
+  {
+    // Add image in './styles/images.css' in #project6
+    id: "project42",
+    name: "10 Foot Display | Trade Show",
+    skills: ["Photoshop, Illustrator"],
+    //   url: "https://kcraymond.github.io/LetsGetTrivial/",
+  },
 ];
 // Edit your Miscellaneous Activities, its name and the url.
 // You can omit freely anything if you dont have it
@@ -336,26 +358,33 @@ const projects4 = [
     // url: "src/images/Slavens Racing Magazine Ads.pdf",
   },
   {
-    // Add image in './styles/images.css' in #project4
+    // Add image in './styles/images.css' in #project3
     id: "project33",
+    name: "Logo Sign Design | Illustrator, Photoshop",
+    skills: ["Custom logo designed and created for D'Vine Wine store signage"],
+    // url: "src/images/Slavens Racing Magazine Ads.pdf",
+  },
+  {
+    // Add image in './styles/images.css' in #project4
+    id: "project34",
     name: "Typography | Illustrator",
     skills: ["Custom t-shirt art for screen printing"],
     // url: "https://excavatortek.com",
   },
   {
-    id: "project34",
+    id: "project35",
     name: "Typography | Illustrator",
     skills: ["Custom t-shirt art for screen printing"],
     // url: "https://dontsmokemyhat.com",
   },
   {
-    id: "project35",
+    id: "project36",
     name: "Typography | Illustrator",
     skills: ["Custom t-shirt art for screen printing"],
     // url: "https://kcraymond.github.io/Weather-Dashboard/",
   },
   {
-    id: "project36",
+    id: "project37",
     name: "Event Logo | Illustrator",
     skills: [
       "Logo to promote the local event at the new Skateboard park for National Go Skateboarding Day.",
@@ -364,7 +393,7 @@ const projects4 = [
     //   "https://limitless-crag-66215.herokuapp.com/?id=602bf784af7f55001513dab4",
   },
   {
-    id: "project37",
+    id: "project38",
     name: "Logo | Illustrator, Photoshop",
     skills: [
       "Logo to promote the Slavens Tested video series and product reviews.",
@@ -373,7 +402,7 @@ const projects4 = [
   },
   {
     // Add image in './styles/images.css' in #project6
-    id: "project38",
+    id: "project39",
     name: "Logo | Illustrator",
     skills: ["Colorado inspired Slavens Racing logo for t-shirts"],
     //   url: "https://kcraymond.github.io/LetsGetTrivial/",
