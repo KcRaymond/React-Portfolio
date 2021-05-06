@@ -4,7 +4,7 @@
 
 ## Description:
 
-Portfolio designed using React framework. Includes school projects and also some professional projects that I have worked on. Links to Github and Linkedin are also included in the contact me section. Had some fun with it including react-particles-js for some animation.
+Portfolio designed using React JS library. Includes school projects and also some professional projects that I have worked on. Links to Github and Linkedin are also included in the contact me section. Had some fun with it including react-particles-js for some animation.
 
 ---
 
