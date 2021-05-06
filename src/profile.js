@@ -46,11 +46,11 @@ const skillsBar = [
   },
   {
     name: "React",
-    value: 80,
+    value: 79,
   },
   {
     name: "Javascript",
-    value: 75,
+    value: 79,
   },
   {
     name: "Express",
