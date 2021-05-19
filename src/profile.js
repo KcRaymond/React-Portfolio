@@ -228,6 +228,28 @@ const projects2 = [
     skills: ["Photoshop, Illustrator, InDesign"],
     //   url: "https://kcraymond.github.io/LetsGetTrivial/",
   },
+  {
+    // Add image in './styles/images.css' in #project6
+    id: "project44",
+    name: "Switchbacks Soccer Team | Promotional Poster",
+    skills: ["Photoshop, Illustrator"],
+    // url:
+    //   "https://limitless-crag-66215.herokuapp.com/?id=602bf784af7f55001513dab4",
+  },
+  {
+    // Add image in './styles/images.css' in #project6
+    id: "project45",
+    name: "Switchbacks Soccer Team | Promotional Banner",
+    skills: ["Photoshop, Illustrator"],
+    // url: "https://github.com/KcRaymond/Template-Engine",
+  },
+  {
+    // Add image in './styles/images.css' in #project6
+    id: "project46",
+    name: "Switchbacks Entertainment | Concert Poster",
+    skills: ["Photoshop, Illustrator"],
+    //   url: "https://kcraymond.github.io/LetsGetTrivial/",
+  },
 ];
 const section7Title = "Trade Show Design & Marketing";
 const projects3 = [
