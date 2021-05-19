@@ -393,8 +393,8 @@ const projects4 = [
   {
     // Add image in './styles/images.css' in #project3
     id: "project43",
-    name: "Book Illustration | Pen & Ink",
-    skills: ["Custom black and white illustration for book"],
+    name: "Tile Painting | Acid Ink",
+    skills: ["Custom painting for tiling project"],
     // url: "src/images/Slavens Racing Magazine Ads.pdf",
   },
   {
