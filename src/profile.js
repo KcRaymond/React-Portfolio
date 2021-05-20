@@ -436,8 +436,8 @@ const projects4 = [
   {
     // Add image in './styles/images.css' in #project6
     id: "project39",
-    name: "Logo | Illustrator",
-    skills: ["Colorado inspired Slavens Racing logo for t-shirts"],
+    name: "Logos | Illustrator",
+    skills: ["A few of the many logos that I have designed"],
     //   url: "https://kcraymond.github.io/LetsGetTrivial/",
   },
 ];
