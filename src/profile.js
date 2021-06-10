@@ -195,14 +195,14 @@ const projects2 = [
     // Add image in './styles/images.css' in #project5
     id: "project14",
     name: "Rocky Mountain Motorworks | Catalog Covers",
-    skills: ["Photoshop, Illustrator, InDesign"],
+    skills: ["Photoshop, Illustrator, InDesign, Photo shoots"],
     // url: "https://dontsmokemyhat.com",
   },
   {
     // Add image in './styles/images.css' in #project6
     id: "project15",
     name: "Rocky Mountain Motorworks | Magazine Ads",
-    skills: ["Photoshop, Illustrator, InDesign"],
+    skills: ["Photoshop, Illustrator, InDesign, Photo shoots"],
     // url: "https://kcraymond.github.io/Weather-Dashboard/",
   },
   {
