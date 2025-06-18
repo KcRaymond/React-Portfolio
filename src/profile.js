@@ -11,7 +11,7 @@ const background = {
 const section2title = "About Kasey...";
 const about = {
   paragraph:
-    "Innovative Art Director with success designing, managing and executing projects from start to end for a variety of high-profile clients/brands. Adept at frontend website design, SEO plans and execution for informational and ecommerce websites. Highly skilled in delivering innovative ideas for books, magazines, brochures, videos and print media with an expert level of Adobe Creative Suite software. Knowledge of JavaScript, React, HTML5, CSS3, Flexbox layouts, MySQL, Node, Express, MongoDB, Command Line, Git, WordPress, Mac OS X operating systems, networking, troubleshooting, and evolving technologies. Demonstrated leadership, organization, communication, interpersonal, presentation, creative thinking, and problem-solving skills. All websites, pictures, illustrations and paintings on this site are created by Kasey.",
+    "Innovative Art Director with success designing, managing and executing projects from start to end for a variety of high-profile clients/brands. Adept at frontend website design, SEO plans and execution for informational and ecommerce websites. Highly skilled in delivering innovative ideas for books, magazines, brochures, videos and print media with an expert level of Adobe Creative Suite software. Knowledge of JavaScript, React, HTML5, CSS3, Flexbox layouts, Command Line, Git, WordPress, Mac OS X operating systems, networking, troubleshooting, and evolving technologies. Demonstrated leadership, organization, communication, interpersonal, presentation, creative thinking, and problem-solving skills. All websites, pictures, illustrations and paintings on this site are created by Kasey.",
 };
 // Edit your skill and the percentage you know about it
 // To Add a skill, copy any one below and paste it after the last comma
@@ -25,8 +25,12 @@ const skillsBar = [
     value: 100,
   },
   {
-    name: "Wordpress | Dreamweaver | Shopify",
+    name: "Wordpress | PHP | Shopify",
     value: 100,
+  },
+  {
+    name: "CNC Programming | G-code",
+    value: 90,
   },
   {
     name: "iMovie | After Effects | Premiere",
@@ -52,18 +56,6 @@ const skillsBar = [
     name: "Javascript",
     value: 79,
   },
-  {
-    name: "Express",
-    value: 60,
-  },
-  {
-    name: "Node",
-    value: 50,
-  },
-  {
-    name: "Mongoose",
-    value: 50,
-  },
 ];
 // Edit your projects, its name, your skills used to make it, and the url.
 // You can omit freely anything if you dont have it
@@ -84,22 +76,31 @@ const projects = [
     id: "project2",
     name: "BRP | Ecommerce",
     skills: [
-      "Complete design and art direction for this WordPress site. Implemented fitment finder, shipping calculator, SEO strategies and streamlined user experience. | HTML, CSS, WordPress, Photoshop",
+      "Complete design and art direction for this WordPress site. Implemented fitment finder, shipping calculator, SEO strategies and streamlined user experience. | HTML, CSS, PHP, WordPress, Photoshop",
     ],
     url: "https://shopbrp.com",
   },
   {
     // Add image in './styles/images.css' in #project3
     id: "project3",
-    name: "E Line Accessories | Ecommerce",
+    name: "OX Motorcycle Products | Ecommerce",
     skills: [
-      "Complete design and art direction of this WordPress ecommerce website and SEO. Including fitment finder and payment gateway. | HTML, CSS, WordPress, Photoshop",
+      "Complete design and art direction of this WordPress ecommerce website and SEO. Including fitment finder and photography. | HTML, CSS, PHP, WordPress, Photoshop",
     ],
-    url: "https://elineaccessories.com",
+    url: "https://ox-brake.com",
+  },
+  {
+    // Add image in './styles/images.css' in #project3
+    id: "project4",
+    name: "CoreBrace | ",
+    skills: [
+      "Design updates and complete SEO of the website, training employees for maintenace. | HTML, CSS, WordPress, PHP, Photoshop",
+    ],
+    url: "https://corebrace.com",
   },
   {
     // Add image in './styles/images.css' in #project4
-    id: "project4",
+    id: "project5",
     name: "Excavator Tek | Website Design",
     skills: [
       "Complete design and art direction for this WordPress informational blog site for a excavator company. Also designed and illustrated a new logo. | HTML, CSS, Wordpress, Photoshop",
@@ -114,42 +115,6 @@ const projects = [
       "Complete design and art direction for this WordPress site for a online hemp hat retailer. | HTML, CSS, WordPress, Photoshop, Photography",
     ],
     url: "https://dontsmokemyhat.com",
-  },
-  {
-    // Add image in './styles/images.css' in #project5
-    id: "project28",
-    name: "Uncle Sam's Piggy Bank | React App",
-    skills: [
-      "Coding project to develop an app to allow a user to play with the federal budget figures. User can change the percentage of collected taxes and change federal department expenses to see if they can do a better job at balancing the federal budget than the government. | HTML, CSS, MongoDB, Express, React, Node, Photoshop",
-    ],
-    url: "https://unclesamspiggybank.herokuapp.com/",
-  },
-  {
-    // Add image in './styles/images.css' in #project6
-    id: "project6",
-    name: "Weather Dashboard App",
-    skills: [
-      "Coding project to connect to an API and pull weather data to a user dashboard. | HTML, CSS, JS, JQuery, Photoshop",
-    ],
-    url: "https://kcraymond.github.io/Weather-Dashboard/",
-  },
-  {
-    // Add image in './styles/images.css' in #project6
-    id: "project7",
-    name: "Workout Tracker App",
-    skills: [
-      "Coding project to connect the front end and setup Mongo DB with Atlas. | HTML, CSS, JS, Mongo DB, Atlas, Photoshop",
-    ],
-    url: "https://limitless-crag-66215.herokuapp.com/?id=602bf784af7f55001513dab4",
-  },
-  {
-    // Add image in './styles/images.css' in #project6
-    id: "project8",
-    name: "Employee Team Builder",
-    skills: [
-      "Coding project to generate a front end HTML page build in the terminal with Node.js. | HTML, CSS, JS, Node, Photoshop",
-    ],
-    url: "https://github.com/KcRaymond/Template-Engine",
   },
   {
     // Add image in './styles/images.css' in #project6
