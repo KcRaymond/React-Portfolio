@@ -25,8 +25,12 @@ const skillsBar = [
     value: 100,
   },
   {
-    name: "Wordpress | PHP | Shopify",
+    name: "Wordpress | PHP | Shopify | SEO",
     value: 100,
+  },
+  {
+    name: "HTML | CSS",
+    value: 90,
   },
   {
     name: "CNC Programming | G-code",
@@ -38,14 +42,6 @@ const skillsBar = [
   },
   {
     name: "XD | Figma",
-    value: 85,
-  },
-  {
-    name: "HTML5",
-    value: 85,
-  },
-  {
-    name: "CSS3 | Sass",
     value: 85,
   },
   {
@@ -85,7 +81,7 @@ const projects = [
     id: "project3",
     name: "OX Motorcycle Products | Ecommerce",
     skills: [
-      "Complete design and art direction of this WordPress ecommerce website and SEO. Including fitment finder and photography. | HTML, CSS, PHP, WordPress, Photoshop",
+      "Complete design and art direction of this WordPress ecommerce website and SEO. Including photography. | HTML, CSS, PHP, WordPress, Photoshop",
     ],
     url: "https://ox-brake.com",
   },
@@ -292,7 +288,7 @@ const projects3 = [
   {
     // Add image in './styles/images.css' in #project6
     id: "project41",
-    name: "6 Foot Pop Up | Trade Show",
+    name: "20 Foot Modular | Trade Show",
     skills: ["Photoshop, Illustrator"],
     // url: "https://github.com/KcRaymond/Template-Engine",
   },
@@ -418,7 +414,7 @@ const social = {
   linkedin: "https://www.linkedin.com/in/KLR-Designs/",
   instagram: "https://instagram.com",
   resume:
-    "https://drive.google.com/file/d/1GTCEtn_zl62D6US6FjNVhA_cJ0zjBGo4/view?usp=sharing",
+    "https://drive.google.com/file/d/1sMTXpbdg91WbTQvqNJJajM8OttzM4ria/view?usp=drive_link",
 };
 export {
   header,
