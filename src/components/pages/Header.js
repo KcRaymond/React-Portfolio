@@ -10,7 +10,7 @@ const Header = () => {
       behavior: "smooth",
     });
   };
-
+  /*
   const toggleDarkMode = () => {
     document.documentElement.classList.toggle("dark-mode");
     document.getElementById("not-dark").classList.toggle("inverse-dark");
@@ -23,7 +23,7 @@ const Header = () => {
     if (document.documentElement.classList.contains("dark-mode"))
       localStorage.setItem("mode", "Dark");
     else localStorage.setItem("mode", "Light");
-  };
+  };*/
 
   return (
     <div>

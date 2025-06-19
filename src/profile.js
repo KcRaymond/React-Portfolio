@@ -414,7 +414,7 @@ const social = {
   linkedin: "https://www.linkedin.com/in/KLR-Designs/",
   instagram: "https://instagram.com",
   resume:
-    "https://drive.google.com/file/d/1sMTXpbdg91WbTQvqNJJajM8OttzM4ria/view?usp=drive_link",
+    "https://drive.google.com/file/d/1sMTXpbdg91WbTQvqNJJajM8OttzM4ria/view?usp=sharing",
 };
 export {
   header,
