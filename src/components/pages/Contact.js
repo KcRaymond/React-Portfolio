@@ -102,7 +102,7 @@ const Contact = () => {
         </div>
       </div>
       <p id="not-dark" className="Copy">
-        Portfolio built with React | KC 2021 <strong></strong>
+        Portfolio built with React | KC 2025 <strong></strong>
       </p>
     </div>
   );

@@ -88,7 +88,7 @@ const projects = [
   {
     // Add image in './styles/images.css' in #project3
     id: "project4",
-    name: "CoreBrace | ",
+    name: "CoreBrace | Informational",
     skills: [
       "Design updates and complete SEO of the website, training employees for maintenace. | HTML, CSS, WordPress, PHP, Photoshop",
     ],
@@ -105,7 +105,7 @@ const projects = [
   },
   {
     // Add image in './styles/images.css' in #project5
-    id: "project5",
+    id: "project6",
     name: "Don't Smoke My Hat - Hemp Hats | Ecommerce",
     skills: [
       "Complete design and art direction for this WordPress site for a online hemp hat retailer. | HTML, CSS, WordPress, Photoshop, Photography",
